@@ -12,7 +12,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:gravity="center_horizontal"
-        android:text="First fragment"
+        android:text="Home"
         android:textAppearance="?android:attr/textAppearanceLarge"
         />
 </LinearLayout>
